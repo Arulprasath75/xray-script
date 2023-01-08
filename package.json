@@ -1,0 +1,19 @@
+{
+  "name": "xray-script",
+  "version": "1.0.0",
+  "description": "free v2ray",
+  "main": "entrypoint.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamtrazy/xray-heroku.git"
+  },
+  "author": "iamtrazy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamtrazy/xray-heroku/issues"
+  },
+  "homepage": "https://github.com/iamtrazy/xray-heroku#readme"
+}
